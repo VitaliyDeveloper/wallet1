@@ -1,0 +1,484 @@
+{
+  "transactions": [
+    {
+      "_id": "64317f7e50d38b59cdd02222",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64318a86033fdbc7f6ce6111",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64318a87033fdbc7f6ce6114",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64318a88033fdbc7f6ce6117",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64318a89033fdbc7f6ce611a",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64318a8a033fdbc7f6ce611d",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64318a8b033fdbc7f6ce6120",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-07T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "643192a526c67d154c63ff39",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-05T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "643192a626c67d154c63ff3c",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-05T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "643192a726c67d154c63ff3f",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-05T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "643192ac26c67d154c63ff42",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "643192ad26c67d154c63ff45",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "643192af26c67d154c63ff48",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "64317d9950d38b59cdd0221a",
+      "__v": 0
+    },
+    {
+      "_id": "64330e535f4aaa4102212329",
+      "type": true,
+      "sum": 1000,
+      "category": "Other",
+      "date": "2023-01-03T00:00:00.000+0000",
+      "comment": "Test2",
+      "owner": "64330d755f4aaa4102212325",
+      "__v": 0
+    },
+    {
+      "_id": "64331efbd7c173be1888beb1",
+      "type": true,
+      "sum": 4000,
+      "date": "1970-01-01T00:17:03.123+0000",
+      "owner": "6432748300a77bd4a32c66e7",
+      "__v": 0,
+      "comment": "все ок"
+    },
+    {
+      "_id": "64332b5f996a782324758342",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "64332c06600aed272dc7482e",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "64332cf5be9301fa09d2a326",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "64332d408d0a725e7d92bbfc",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "64332d9893061715314448bf",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "64332e6393061715314448c4",
+      "type": false,
+      "sum": 250.23,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "6433d2c53a1f3eefe6bda006",
+      "type": true,
+      "sum": 1000,
+      "category": "Other",
+      "date": "2023-01-03T00:00:00.000+0000",
+      "comment": "Test2",
+      "owner": "6433360456416409bfc86dfa",
+      "__v": 0
+    },
+    {
+      "_id": "64347271b0b9b24da55d2e77",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "6434728cb0b9b24da55d2e7c",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643314c4884f49dc32055c08",
+      "__v": 0
+    },
+    {
+      "_id": "6435862cd289e787120b3c35",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643574b69c36443a14e370ad",
+      "__v": 0
+    },
+    {
+      "_id": "6435862ed289e787120b3c3a",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643574b69c36443a14e370ad",
+      "__v": 0
+    },
+    {
+      "_id": "6435862fd289e787120b3c3f",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643574b69c36443a14e370ad",
+      "__v": 0
+    },
+    {
+      "_id": "64358630d289e787120b3c44",
+      "type": false,
+      "sum": 200,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "comment": "my second transaction",
+      "owner": "643574b69c36443a14e370ad",
+      "__v": 0
+    },
+    {
+      "_id": "6435b96026b2e99ea69ca98d",
+      "type": true,
+      "sum": 300,
+      "category": "Car",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "comment": "Fix car",
+      "owner": "6435b4a926b2e99ea69ca97f",
+      "__v": 0
+    },
+    {
+      "_id": "6435b96a26b2e99ea69ca992",
+      "type": true,
+      "sum": 500,
+      "category": "Car",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "comment": "Fix car",
+      "owner": "6435b4a926b2e99ea69ca97f",
+      "__v": 0
+    },
+    {
+      "_id": "6435b9c426b2e99ea69ca999",
+      "type": true,
+      "sum": 500,
+      "category": "Self care",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "comment": "Fix car",
+      "owner": "6435b4a926b2e99ea69ca97f",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4af03a032f73176a732",
+      "type": true,
+      "sum": 3000,
+      "category": "Car",
+      "date": "2023-04-03T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4cd03a032f73176a737",
+      "type": false,
+      "sum": 400,
+      "category": "Other",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4ce03a032f73176a73c",
+      "type": false,
+      "sum": 400,
+      "category": "Other",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4d003a032f73176a741",
+      "type": false,
+      "sum": 400,
+      "category": "Other",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4d103a032f73176a746",
+      "type": false,
+      "sum": 400,
+      "category": "Other",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4d203a032f73176a74b",
+      "type": false,
+      "sum": 400,
+      "category": "Other",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c4d303a032f73176a750",
+      "type": false,
+      "sum": 400,
+      "category": "Other",
+      "date": "2023-04-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c5c503a032f73176a755",
+      "type": true,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c5c603a032f73176a75a",
+      "type": true,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c5c703a032f73176a75f",
+      "type": true,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c5c803a032f73176a764",
+      "type": true,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c5c903a032f73176a769",
+      "type": true,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c96f02967536b4bbd130",
+      "type": false,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c97b02967536b4bbd135",
+      "type": false,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c98402967536b4bbd13a",
+      "type": false,
+      "sum": 600,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c99102967536b4bbd13f",
+      "type": false,
+      "sum": 600000,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c99f02967536b4bbd144",
+      "type": false,
+      "sum": 6000000000.0,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c9a502967536b4bbd149",
+      "type": false,
+      "sum": 6000000000.0,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    },
+    {
+      "_id": "6435c9a602967536b4bbd14e",
+      "type": false,
+      "sum": 6000000000.0,
+      "category": "Other",
+      "date": "2023-05-12T00:00:00.000+0000",
+      "owner": "6435b2ef7d9c42dda0745b03",
+      "__v": 0
+    }
+  ]
+}
